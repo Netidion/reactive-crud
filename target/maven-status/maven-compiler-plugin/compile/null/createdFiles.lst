@@ -1,0 +1,3 @@
+org\acme\resource\FruitResource.class
+META-INF\panache-archive.marker
+org\acme\GreetingResource.class
